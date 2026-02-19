@@ -1,0 +1,21 @@
+# Core
+streamlit
+pandas
+numpy
+
+# D-Tale
+dtale
+scipy
+
+# Profiling
+ydata-profiling
+streamlit-pandas-profiling
+visions
+
+# AutoML
+autogluon
+
+# Utilities
+matplotlib
+seaborn
+pillow
