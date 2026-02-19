@@ -9,6 +9,7 @@ scipy
 
 # Profiling
 ydata-profiling
+setuptools
 streamlit-pandas-profiling
 visions
 
@@ -19,3 +20,4 @@ autogluon
 matplotlib
 seaborn
 pillow
+
